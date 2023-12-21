@@ -83,7 +83,8 @@ html {
   margin-top: 3%;
 }
 
-#estilo2 h2{
+#estilo2 h2,
+#estilo3 h5{
   color:red;
 }
 
